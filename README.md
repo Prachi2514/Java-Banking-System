@@ -64,11 +64,11 @@ Empty ResultSet checks
    );
    
 3.**Update DB Password**
-In DBConnection.java, enter your MySQL password:
-DriverManager.getConnection("jdbc:mysql://localhost:3306/bankdb","root","YOUR_PASSWORD");
+-In DBConnection.java, enter your MySQL password:
+-DriverManager.getConnection("jdbc:mysql://localhost:3306/bankdb","root","YOUR_PASSWORD");
 
 4.**Run the Project**
-Open Main.java → Click Run
+-Open Main.java → Click Run
 OR
-javac Main.java
-java Main
+-javac Main.java
+-java Main
